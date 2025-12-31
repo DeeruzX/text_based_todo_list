@@ -48,7 +48,7 @@ while True:
     elif option == "tips":
         print("we prefer that you clear your todo everyday for a cleaner look.")
     elif option == "j":
-        print("Developer: JehadCode")
+        print("Developer: Deeruz")
 
     else:
         break
